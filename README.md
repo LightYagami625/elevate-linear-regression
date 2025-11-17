@@ -8,7 +8,7 @@ The model shows the following evalution
 3. MAE: 956660.380038148
 
 ## The graph shows the Predicted and Actual values
-![Predicted graph] (model_performance.png)
+![Predicted graph](model_performance.png)
 
 ## The graph shows Features Co-Efficient values
 ![Co-efficients](feature_coefficients.png)
